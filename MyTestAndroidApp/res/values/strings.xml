@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">MyTestAndroidApp</string>
+    <string name="app_id">295664620583278</string>
+    <string name="text">Please enter the address here.</string>
+    <string name="settings">Settings</string>
+    <string name="submit">Start Tracking</string>
+
+</resources>
